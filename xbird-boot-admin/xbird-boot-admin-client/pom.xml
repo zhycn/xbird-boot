@@ -13,16 +13,11 @@
 		<version>1.0.0</version>
 		<relativePath>../</relativePath>
 	</parent>
-	
-	<properties>
-		<sba.version>2.0.1</sba.version>
-	</properties>
 
 	<dependencies>
 		<dependency>
 			<groupId>de.codecentric</groupId>
 			<artifactId>spring-boot-admin-starter-client</artifactId>
-			<version>${sba.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

@@ -1,5 +1,9 @@
 spring:
   application:
     name: xbird-boot-admin-client
+  boot:
+    admin:
+      client:
+        url: http://localhost:18080
 server:
   port: 18081
