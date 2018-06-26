@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: xbird-boot-base
+  profiles:
+    active:
+    - dev

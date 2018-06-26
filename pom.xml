@@ -20,6 +20,7 @@
 
 	<modules>
 		<module>xbird-boot-admin</module>
+		<module>xbird-boot-base</module>
 	</modules>
 
 	<properties>
